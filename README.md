@@ -7,9 +7,8 @@
   I'm Adam, brewer turned software developer, currently living in <b>Colorado</b> 
   :beer: :computer: <img src="https://user-images.githubusercontent.com/116456652/232321543-0712613f-aa94-4301-b686-f473c734b2ff.png"
 </p>
-  <p><img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=aj-bailey&theme=radical&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/></p>
 <p>
-
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=aj-bailey&theme=radical&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
