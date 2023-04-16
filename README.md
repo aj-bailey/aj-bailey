@@ -1,6 +1,8 @@
 ### Hey! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 ### Welcome to my page!!
+
 ---
+
 <p>
   I'm Adam, brewer turned software developer, currently living in <b>Colorado</b> 
   :beer: :computer: <img src="https://user-images.githubusercontent.com/116456652/232321543-0712613f-aa94-4301-b686-f473c734b2ff.png"
@@ -25,6 +27,8 @@
   <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036">
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
 </p>
 
 ---
@@ -47,21 +51,37 @@
 </details>
 
 <details>
-  <summary>Other Statistics</summary><br/>
+  <summary>Other Statistics</summary>
+  <br>
   <p>
-    <img align="left" width="490" height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aj-bailey&theme=radical">
-    <img align="right" width="490" height="165" src="https://github-readme-activity-graph.cyclic.app/graph?username=aj-bailey&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj-bailey&theme=radical">
-  </p>
-  <p>
-    <img src="http://img.shields.io/badge/Code%20Time-2%2C154%20hrs%2043%20mins-blue)">
-    <img src="http://img.shields.io/badge/Profile%20Views-332-blue)">
+    <img width="490" height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aj-bailey&theme=nord_bright">
+    <img width="490" height="165" src="https://github-readme-activity-graph.cyclic.app/graph?username=aj-bailey&theme=github">
+    <img width="490" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aj-bailey&theme=onedark">
   </p>
 </details>
 
 <details>
-  <summary>
-</details
+  <summary>About Me</summary>
+  <p>
+    <p>
+      🍻🚰 Computer Science student gone rogue into the world of Fermentation Science. Enveloped in brewery process optimization to make tasty beverages, finding my way back to programming by way of data analysis in the water treatment industry.
+    </p>
+    <p>
+      💻 &emsp; Student at Turing School of Software and Design to fast-track my programming chops and set the course back towards software development
+    </p>
+    <p>
+      🚲 &emsp; Setting PR's mountain biking my local trails
+    </p>
+    <p>
+      🏔️ &emsp; Lover of winter and snowboarding
+    </p>
+    <p>
+      🍺 &emsp; Honing my craft of brewing beer
+    </p>
+  </p>
+</details>
+
 <p>
-  <img src="http://views.whatilearened.today/views/github/aj-bailey/views.svg"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faj-bailey1212%2Fhit-counter">
+  <img src="http://views.whatilearened.today/views/github/aj-bailey/views.svg">
 </p>
